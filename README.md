@@ -1,6 +1,12 @@
 # Youtube-Deck-using-PowerApps-and-Flow
 
-Import the .zip file in PowerApps and upload the excel file in your OneDrive . Delete the exisiting OneDrive connection in the PowerApp and then add a new OneDrive connection that connects to the 'Channels' table in the spreadsheet.
+Import the PowerVideo zip file in PowerApps using Import Package option.
+
+Upload the excel file in your OneDrive . 
+
+Delete the exisiting "Channels" OneDrive datasource in the PowerApp and then add a new OneDrive datasource that connects to the 'Channels' table in the excel file.
+
+That's it! Enjoy!
 
   
 Vivek Bavishi aka That API Guy
